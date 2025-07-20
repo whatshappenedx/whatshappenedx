@@ -14,11 +14,11 @@
 
 ### 🚀 Sobre mí:
   
-Soy Ingeniero en Ciencias de la Computación con experiencia en desarrollo Full - Stack y Machin Learnig. Me encanta aprender, crear proyectos interesantes y compartir conocimiento con la comunidad. 
+Soy Ingeniero en Ciencias de la Computación con experiencia en desarrollo Full - Stack y Machine Learnig. Me encanta aprender, crear proyectos interesantes y compartir conocimiento con la comunidad. 
 
-- 🌱 Actualmente estoy aprendiendo **[Tecnología en aprendizaje]**.
-- 💡 Me interesa mucho trabajar con **[Área o tecnología que te apasiona]**.
-- ⚡ Dato curioso sobre mí: **[Dato divertido o interesante]**.
+- 🌱 Actualmente estoy aprendiendo **[ML]**.
+- 💡 Me interesa mucho trabajar con **[Machine Learning, Deep Learning, Desarrollador Full-Stack]**.
+- ⚡ Dato curioso sobre mí: **[Tener Buenos Gusto Musicales]**.
 
 ---
 
@@ -57,8 +57,8 @@ Soy Ingeniero en Ciencias de la Computación con experiencia en desarrollo Full 
 
 ### 📖 Frase que me inspira:
 
-> _"La tecnología no es nada. Lo importante es que tengas fe en las personas, que sean básicamente buenas e inteligentes, y si les das herramientas, harán cosas maravillosas con ellas."_  
-> — **Steve Jobs**
+> _"El conocimiento no es un destino, sino un viaje."_  
+> — **Isaác Armijos**
 
 ---
 
