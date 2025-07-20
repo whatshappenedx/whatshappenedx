@@ -65,5 +65,6 @@ Soy Ingeniero en Ciencias de la Computación con experiencia en desarrollo Full 
 <p align="center"> 
   Visitantes:  
   <br>
-  <img src="https://profile-counter.glitch.me/whatshappenedx/count.svg" />
+  <img src="![Visitas](https://visitor-badge.glitch.me/badge?page_id=whatshappenedx.whatshappenedx&left_color=gray&right_color=blue)
+" />
 </p>
