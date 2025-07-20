@@ -4,8 +4,8 @@
 
 **Soy un desarrollador apasionado por la innovación tecnológica 🚀**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/TuLinkedin)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-121212?style=flat&logo=google-chrome&logoColor=white)](https://tuportfolio.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaacarmijosdominguez/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-121212?style=flat&logo=google-chrome&logoColor=white)](https://portafolio-isaac-armijos.vercel.app/)
 [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:tuemail@gmail.com)
 
 </div>
@@ -33,15 +33,15 @@ Soy Ingeniero en Ciencias de la Computación con experiencia en desarrollo Full 
 ### 📈 Mis Estadísticas en GitHub:
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TuUsuarioGitHub&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuarioGitHub&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=whatshappenedx&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=whatshappenedx&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 📊 Lenguajes más usados:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuarioGitHub&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whatshappenedx&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -65,5 +65,5 @@ Soy Ingeniero en Ciencias de la Computación con experiencia en desarrollo Full 
 <p align="center"> 
   Visitantes:  
   <br>
-  <img src="https://profile-counter.glitch.me/TuUsuarioGitHub/count.svg" />
+  <img src="https://profile-counter.glitch.me/whatshappenedx/count.svg" />
 </p>
