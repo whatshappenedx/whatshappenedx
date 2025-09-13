@@ -94,7 +94,7 @@ I’m a passionate Computer Science Engineer specialized in **Intelligent System
 ### 🌐 Languages
 
 - 🇪🇸 **Spanish**: Native Speaker  
-- 🇺🇸 **English**: Certified B2.2 (Upper Intermediate, Cambridge)
+- 🇺🇸 **English**: Certified C1 (Advanced)
 
 ---
 
